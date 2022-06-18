@@ -1,4 +1,50 @@
-<img src="images/svg/header_en.svg"></img>
+<body>
+  <div class="header finisher-header" style="width: 100%; height: 300px;">
+    Zarmina Ursino
+  </div>
+<script src="finisher-header.es5.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+new FinisherHeader({
+  "count": 6,
+  "size": {
+    "min": 1100,
+    "max": 1300,
+    "pulse": 0
+  },
+  "speed": {
+    "x": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "y": {
+      "min": 0.1,
+      "max": 0.3
+    }
+  },
+  "colors": {
+    "background": "#9138e5",
+    "particles": [
+      "#6bd6ff",
+      "#ffcb57",
+      "#ff3361"
+    ]
+  },
+  "blending": "overlay",
+  "opacity": {
+    "center": 1,
+    "edge": 0.1
+  },
+  "skew": -2,
+  "shapes": [
+    "c",
+    "s"
+  ]
+});
+</script>
+
+</body>
+
+
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/ita-flag.png" height="13"> Italian</a></td></tr>
