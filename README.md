@@ -1,10 +1,4 @@
-<body>
-  <div class="header finisher-header" style="width: 100%; height: 300px;">
-    Zarmina Ursino
-  </div>
-<script src="finisher-header.es5.min.js" type="text/javascript"></script>
-
-</body>
+<img src="images/header.svg"></img>
 
 
 
