@@ -2,10 +2,11 @@
 
  
 <table align="right">
- <tr><td><a href="README.md"><img src="images/ita-flag.png" height="13"> Italian</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/eng-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/mu-flag.png" height="13"> Mauritian</a></td></tr>
+ <th>Spoken languages</th>
+ <tr><td><img src="images/ita-flag.png" height="13"></img>Italian</td></tr>
+ <tr><td><img src="images/fr-flag.png" height="13">Français</td></tr>
+ <tr><td><img src="images/eng-flag.png" height="13">English</td></tr>
+ <tr><td><img src="images/mu-flag.png" height="13">Mauritian</td></tr>
 
 </table>
 
