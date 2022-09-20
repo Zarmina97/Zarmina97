@@ -3,10 +3,10 @@
  
 <table align="right">
  <th>Spoken languages</th>
- <tr><td><img src="images/ita-flag.png" height="13"></img>Italian</td></tr>
- <tr><td><img src="images/fr-flag.png" height="13">Français</td></tr>
- <tr><td><img src="images/eng-flag.png" height="13">English</td></tr>
- <tr><td><img src="images/mu-flag.png" height="13">Mauritian</td></tr>
+ <tr><td><img src="images/ita-flag.png" height="13"></img> Italian</td></tr>
+ <tr><td><img src="images/fr-flag.png" height="13"> Français</td></tr>
+ <tr><td><img src="images/eng-flag.png" height="13"> English</td></tr>
+ <tr><td><img src="images/mu-flag.png" height="13"> Mauritian</td></tr>
 
 </table>
 
